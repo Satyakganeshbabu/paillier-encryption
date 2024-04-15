@@ -8,7 +8,7 @@ Python 3.x
 phe library 
 bash
 ```pip install phe```
-conda command for installation
+
 How to Use
 Run the Server Script:
 
