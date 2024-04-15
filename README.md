@@ -9,7 +9,6 @@ phe library
 bash
 ```pip install phe```
 conda command for installation
-'''conda install conda-forge::phe'''
 How to Use
 Run the Server Script:
 
